@@ -14,7 +14,6 @@ We collected questions from Chinese National Medical Licensing Examination (NMLE
 ```本仓库收集了2017年至2021年中国国家执业医师资格考试（NMLE）、中国国家执业药师资格考试（NPLE）和中国国家执业护士资格考试（NNLE）的试题。在NMLE中，每次考试由4个单元组成，每个单元有150道题，总共600道题。在NPLE中，每次考试由4个单元组成，每个单元有120道题，总共480道题。在NNLE中，每次考试由2个单元组成，每个单元有120道题，总共240道题。根据考试要求，正确答案的准确率超过0.6被认为符合及格标准。```
 
 
-
 | Year | NMLE | NPLE | NNLE | Total |
 | ---- | ---- | ---- | ---- | ----- |
 | 2017 | 600  | 480  | 240  | 1320  |
@@ -24,6 +23,23 @@ We collected questions from Chinese National Medical Licensing Examination (NMLE
 | 2021 | 600  | 480  | 240  | 1320  |
 | Total| 3000 | 2400 | 1200 | 6600  |
 
+#### Data details
+We provide data in the following format for each module so that users can evaluate the model. For example:
+```
+    {
+        "id": "2017-Unit1-1",
+        "question": "小剂量地塞米松抑制试验适用于（ ）。",
+        "options": {
+            "A": "醛固酮增多症定性",
+            "B": "肾上腺皮质增多症定性",
+            "C": "肾上腺皮质功能减退症定位",
+            "D": "肾上腺皮质功能减退症定性",
+            "E": "肾上腺皮质增多症定位"
+        },
+        "answer": "B"
+    },
+
+```
 
 ## How to cite
 > Zong, H., Li, J., Wu, E. et al. Performance of ChatGPT on Chinese national medical licensing examinations: a five-year examination evaluation study for physicians, pharmacists and nurses. BMC Med Educ 24, 143 (2024). https://doi.org/10.1186/s12909-024-05125-7
