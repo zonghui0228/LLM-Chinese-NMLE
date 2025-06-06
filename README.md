@@ -28,7 +28,7 @@ We collected questions from Chinese National Medical Licensing Examination (NMLE
 ## How to cite
 1. Zong H, Li J, Wu E, et al. **Performance of ChatGPT on Chinese national medical licensing examinations: a five-year examination evaluation study for physicians, pharmacists and nurses**. *BMC Medical Education* 24, 143 (2024). PMID: [38355517](https://pubmed.ncbi.nlm.nih.gov/38355517/) DOI: [10.1186/s12909-024-05125-7](https://doi.org/10.1186/s12909-024-05125-7) 
 
-2. Zong H, Wu R, Cha J, et al. **Large Language Models in Worldwide Medical Exams: Platform Development and Comprehensive Analysis**. *Journal of Medical Internet Research*. 2024;26:e66114. PMID: [39729356](https://pubmed.ncbi.nlm.nih.gov/39729356/) DOI: [doi:10.2196/66114](https://doi.org/doi:10.2196/66114) 
+2. Zong H, Wu R, Cha J, et al. **Large Language Models in Worldwide Medical Exams: Platform Development and Comprehensive Analysis**. *Journal of Medical Internet Research*. 2024;26:e66114. PMID: [39729356](https://pubmed.ncbi.nlm.nih.gov/39729356/) DOI: [10.2196/66114](https://doi.org/doi:10.2196/66114) 
 
 ## Contact
 > Hui Zong, West China Hospital of Sichaun University
