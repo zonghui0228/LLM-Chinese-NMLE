@@ -31,6 +31,4 @@ We collected questions from Chinese National Medical Licensing Examination (NMLE
 2. Zong H, Wu R, Cha J, et al. **Large Language Models in Worldwide Medical Exams: Platform Development and Comprehensive Analysis**. *Journal of Medical Internet Research*. 2024;26:e66114. PMID: [39729356](https://pubmed.ncbi.nlm.nih.gov/39729356/) DOI: [10.2196/66114](https://doi.org/doi:10.2196/66114) 
 
 ## Contact
-> Hui Zong, West China Hospital of Sichaun University
-
-> Email: zonghui0228@163.com
+Hui Zong, West China Hospital of Sichaun University
